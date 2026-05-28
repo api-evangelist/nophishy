@@ -1,0 +1,32 @@
+aid: nophishy
+name: NoPhishy
+description: "Check links to see if they're known phishing attempts"
+url: https://rapidapi.com/Amiichu/api/exerra-phishing-check/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Anti-Malware"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Anti Malware
+  - Public APIs
+apis:
+  - name: NoPhishy
+    description: "Check links to see if they're known phishing attempts"
+    humanURL: https://rapidapi.com/Amiichu/api/exerra-phishing-check/
+    baseURL: https://rapidapi.com/Amiichu/api/exerra-phishing-check/
+    tags:
+      - Anti Malware
+    properties:
+      - type: Documentation
+        url: https://rapidapi.com/Amiichu/api/exerra-phishing-check/
+common:
+  - type: Website
+    url: https://rapidapi.com/Amiichu/api/exerra-phishing-check/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
